@@ -1,0 +1,22 @@
+{
+	"ImportPath": "go_web_programming/ch10/heroku_web_service",
+	"GoVersion": "go1.13",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "v1.3.0",
+			"Rev": "99274577be97ac9b1d95a2d61d566dc9b7cc6a54"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/oid",
+			"Comment": "v1.3.0",
+			"Rev": "99274577be97ac9b1d95a2d61d566dc9b7cc6a54"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/scram",
+			"Comment": "v1.3.0",
+			"Rev": "99274577be97ac9b1d95a2d61d566dc9b7cc6a54"
+		}
+	]
+}
